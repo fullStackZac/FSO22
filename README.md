@@ -1,2 +1,2 @@
 # FSO22
-Full Stack Open 2022 Final Project
+Full Stack Open 2022 Solutions & Final Project
